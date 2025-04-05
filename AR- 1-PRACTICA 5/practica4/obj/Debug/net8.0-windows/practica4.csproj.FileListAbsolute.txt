@@ -1,0 +1,32 @@
+C:\Users\valen\source\repos\practica4\practica4\bin\Debug\net8.0-windows\practica4.exe
+C:\Users\valen\source\repos\practica4\practica4\bin\Debug\net8.0-windows\practica4.deps.json
+C:\Users\valen\source\repos\practica4\practica4\bin\Debug\net8.0-windows\practica4.runtimeconfig.json
+C:\Users\valen\source\repos\practica4\practica4\bin\Debug\net8.0-windows\practica4.dll
+C:\Users\valen\source\repos\practica4\practica4\bin\Debug\net8.0-windows\practica4.pdb
+C:\Users\valen\source\repos\practica4\practica4\obj\Debug\net8.0-windows\practica4.Form1.resources
+C:\Users\valen\source\repos\practica4\practica4\obj\Debug\net8.0-windows\practica4.csproj.GenerateResource.cache
+C:\Users\valen\source\repos\practica4\practica4\obj\Debug\net8.0-windows\practica4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valen\source\repos\practica4\practica4\obj\Debug\net8.0-windows\practica4.AssemblyInfoInputs.cache
+C:\Users\valen\source\repos\practica4\practica4\obj\Debug\net8.0-windows\practica4.AssemblyInfo.cs
+C:\Users\valen\source\repos\practica4\practica4\obj\Debug\net8.0-windows\practica4.csproj.CoreCompileInputs.cache
+C:\Users\valen\source\repos\practica4\practica4\obj\Debug\net8.0-windows\practica4.dll
+C:\Users\valen\source\repos\practica4\practica4\obj\Debug\net8.0-windows\refint\practica4.dll
+C:\Users\valen\source\repos\practica4\practica4\obj\Debug\net8.0-windows\practica4.pdb
+C:\Users\valen\source\repos\practica4\practica4\obj\Debug\net8.0-windows\practica4.genruntimeconfig.cache
+C:\Users\valen\source\repos\practica4\practica4\obj\Debug\net8.0-windows\ref\practica4.dll
+C:\Users\valen\source\repos\AR- 1-PRACTICA 5\practica4\bin\Debug\net8.0-windows\practica4.exe
+C:\Users\valen\source\repos\AR- 1-PRACTICA 5\practica4\bin\Debug\net8.0-windows\practica4.deps.json
+C:\Users\valen\source\repos\AR- 1-PRACTICA 5\practica4\bin\Debug\net8.0-windows\practica4.runtimeconfig.json
+C:\Users\valen\source\repos\AR- 1-PRACTICA 5\practica4\bin\Debug\net8.0-windows\practica4.dll
+C:\Users\valen\source\repos\AR- 1-PRACTICA 5\practica4\bin\Debug\net8.0-windows\practica4.pdb
+C:\Users\valen\source\repos\AR- 1-PRACTICA 5\practica4\obj\Debug\net8.0-windows\practica4.Form1.resources
+C:\Users\valen\source\repos\AR- 1-PRACTICA 5\practica4\obj\Debug\net8.0-windows\practica4.csproj.GenerateResource.cache
+C:\Users\valen\source\repos\AR- 1-PRACTICA 5\practica4\obj\Debug\net8.0-windows\practica4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valen\source\repos\AR- 1-PRACTICA 5\practica4\obj\Debug\net8.0-windows\practica4.AssemblyInfoInputs.cache
+C:\Users\valen\source\repos\AR- 1-PRACTICA 5\practica4\obj\Debug\net8.0-windows\practica4.AssemblyInfo.cs
+C:\Users\valen\source\repos\AR- 1-PRACTICA 5\practica4\obj\Debug\net8.0-windows\practica4.csproj.CoreCompileInputs.cache
+C:\Users\valen\source\repos\AR- 1-PRACTICA 5\practica4\obj\Debug\net8.0-windows\practica4.dll
+C:\Users\valen\source\repos\AR- 1-PRACTICA 5\practica4\obj\Debug\net8.0-windows\refint\practica4.dll
+C:\Users\valen\source\repos\AR- 1-PRACTICA 5\practica4\obj\Debug\net8.0-windows\practica4.pdb
+C:\Users\valen\source\repos\AR- 1-PRACTICA 5\practica4\obj\Debug\net8.0-windows\practica4.genruntimeconfig.cache
+C:\Users\valen\source\repos\AR- 1-PRACTICA 5\practica4\obj\Debug\net8.0-windows\ref\practica4.dll
