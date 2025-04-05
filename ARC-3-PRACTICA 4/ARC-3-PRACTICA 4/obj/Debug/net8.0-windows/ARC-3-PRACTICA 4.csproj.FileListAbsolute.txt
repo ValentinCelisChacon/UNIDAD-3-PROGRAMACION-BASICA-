@@ -1,0 +1,16 @@
+C:\Users\valen\source\repos\ARC-3-PRACTICA 4\ARC-3-PRACTICA 4\bin\Debug\net8.0-windows\ARC-3-PRACTICA 4.exe
+C:\Users\valen\source\repos\ARC-3-PRACTICA 4\ARC-3-PRACTICA 4\bin\Debug\net8.0-windows\ARC-3-PRACTICA 4.deps.json
+C:\Users\valen\source\repos\ARC-3-PRACTICA 4\ARC-3-PRACTICA 4\bin\Debug\net8.0-windows\ARC-3-PRACTICA 4.runtimeconfig.json
+C:\Users\valen\source\repos\ARC-3-PRACTICA 4\ARC-3-PRACTICA 4\bin\Debug\net8.0-windows\ARC-3-PRACTICA 4.dll
+C:\Users\valen\source\repos\ARC-3-PRACTICA 4\ARC-3-PRACTICA 4\bin\Debug\net8.0-windows\ARC-3-PRACTICA 4.pdb
+C:\Users\valen\source\repos\ARC-3-PRACTICA 4\ARC-3-PRACTICA 4\obj\Debug\net8.0-windows\ARC_3_PRACTICA_4.Form1.resources
+C:\Users\valen\source\repos\ARC-3-PRACTICA 4\ARC-3-PRACTICA 4\obj\Debug\net8.0-windows\ARC-3-PRACTICA 4.csproj.GenerateResource.cache
+C:\Users\valen\source\repos\ARC-3-PRACTICA 4\ARC-3-PRACTICA 4\obj\Debug\net8.0-windows\ARC-3-PRACTICA 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valen\source\repos\ARC-3-PRACTICA 4\ARC-3-PRACTICA 4\obj\Debug\net8.0-windows\ARC-3-PRACTICA 4.AssemblyInfoInputs.cache
+C:\Users\valen\source\repos\ARC-3-PRACTICA 4\ARC-3-PRACTICA 4\obj\Debug\net8.0-windows\ARC-3-PRACTICA 4.AssemblyInfo.cs
+C:\Users\valen\source\repos\ARC-3-PRACTICA 4\ARC-3-PRACTICA 4\obj\Debug\net8.0-windows\ARC-3-PRACTICA 4.csproj.CoreCompileInputs.cache
+C:\Users\valen\source\repos\ARC-3-PRACTICA 4\ARC-3-PRACTICA 4\obj\Debug\net8.0-windows\ARC-3-PRACTICA 4.dll
+C:\Users\valen\source\repos\ARC-3-PRACTICA 4\ARC-3-PRACTICA 4\obj\Debug\net8.0-windows\refint\ARC-3-PRACTICA 4.dll
+C:\Users\valen\source\repos\ARC-3-PRACTICA 4\ARC-3-PRACTICA 4\obj\Debug\net8.0-windows\ARC-3-PRACTICA 4.pdb
+C:\Users\valen\source\repos\ARC-3-PRACTICA 4\ARC-3-PRACTICA 4\obj\Debug\net8.0-windows\ARC-3-PRACTICA 4.genruntimeconfig.cache
+C:\Users\valen\source\repos\ARC-3-PRACTICA 4\ARC-3-PRACTICA 4\obj\Debug\net8.0-windows\ref\ARC-3-PRACTICA 4.dll

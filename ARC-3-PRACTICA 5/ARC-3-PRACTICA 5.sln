@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARC-3-PRACTICA 5", "ARC-3-PRACTICA 5\ARC-3-PRACTICA 5.csproj", "{773E50EA-CFCC-445B-BED3-638C81FD58EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{773E50EA-CFCC-445B-BED3-638C81FD58EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{773E50EA-CFCC-445B-BED3-638C81FD58EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{773E50EA-CFCC-445B-BED3-638C81FD58EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{773E50EA-CFCC-445B-BED3-638C81FD58EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B317D51-2381-4C31-B7D6-0E6E42204CC7}
+	EndGlobalSection
+EndGlobal
