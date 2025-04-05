@@ -1,0 +1,16 @@
+C:\Users\valen\source\repos\ARC-2-PRACTICA 6\ARC-2-PRACTICA 6\bin\Debug\net8.0-windows\ARC-2-PRACTICA 6.exe
+C:\Users\valen\source\repos\ARC-2-PRACTICA 6\ARC-2-PRACTICA 6\bin\Debug\net8.0-windows\ARC-2-PRACTICA 6.deps.json
+C:\Users\valen\source\repos\ARC-2-PRACTICA 6\ARC-2-PRACTICA 6\bin\Debug\net8.0-windows\ARC-2-PRACTICA 6.runtimeconfig.json
+C:\Users\valen\source\repos\ARC-2-PRACTICA 6\ARC-2-PRACTICA 6\bin\Debug\net8.0-windows\ARC-2-PRACTICA 6.dll
+C:\Users\valen\source\repos\ARC-2-PRACTICA 6\ARC-2-PRACTICA 6\bin\Debug\net8.0-windows\ARC-2-PRACTICA 6.pdb
+C:\Users\valen\source\repos\ARC-2-PRACTICA 6\ARC-2-PRACTICA 6\obj\Debug\net8.0-windows\ARC_2_PRACTICA_6.Form1.resources
+C:\Users\valen\source\repos\ARC-2-PRACTICA 6\ARC-2-PRACTICA 6\obj\Debug\net8.0-windows\ARC-2-PRACTICA 6.csproj.GenerateResource.cache
+C:\Users\valen\source\repos\ARC-2-PRACTICA 6\ARC-2-PRACTICA 6\obj\Debug\net8.0-windows\ARC-2-PRACTICA 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valen\source\repos\ARC-2-PRACTICA 6\ARC-2-PRACTICA 6\obj\Debug\net8.0-windows\ARC-2-PRACTICA 6.AssemblyInfoInputs.cache
+C:\Users\valen\source\repos\ARC-2-PRACTICA 6\ARC-2-PRACTICA 6\obj\Debug\net8.0-windows\ARC-2-PRACTICA 6.AssemblyInfo.cs
+C:\Users\valen\source\repos\ARC-2-PRACTICA 6\ARC-2-PRACTICA 6\obj\Debug\net8.0-windows\ARC-2-PRACTICA 6.csproj.CoreCompileInputs.cache
+C:\Users\valen\source\repos\ARC-2-PRACTICA 6\ARC-2-PRACTICA 6\obj\Debug\net8.0-windows\ARC-2-PRACTICA 6.dll
+C:\Users\valen\source\repos\ARC-2-PRACTICA 6\ARC-2-PRACTICA 6\obj\Debug\net8.0-windows\refint\ARC-2-PRACTICA 6.dll
+C:\Users\valen\source\repos\ARC-2-PRACTICA 6\ARC-2-PRACTICA 6\obj\Debug\net8.0-windows\ARC-2-PRACTICA 6.pdb
+C:\Users\valen\source\repos\ARC-2-PRACTICA 6\ARC-2-PRACTICA 6\obj\Debug\net8.0-windows\ARC-2-PRACTICA 6.genruntimeconfig.cache
+C:\Users\valen\source\repos\ARC-2-PRACTICA 6\ARC-2-PRACTICA 6\obj\Debug\net8.0-windows\ref\ARC-2-PRACTICA 6.dll
