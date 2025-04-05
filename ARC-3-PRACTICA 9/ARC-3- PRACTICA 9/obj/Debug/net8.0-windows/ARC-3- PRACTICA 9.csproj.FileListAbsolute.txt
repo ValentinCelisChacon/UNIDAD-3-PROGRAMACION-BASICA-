@@ -1,0 +1,34 @@
+C:\Users\valen\source\repos\ARC-3- PRACTICA 9\ARC-3- PRACTICA 9\bin\Debug\net8.0-windows\ARC-3- PRACTICA 9.exe
+C:\Users\valen\source\repos\ARC-3- PRACTICA 9\ARC-3- PRACTICA 9\bin\Debug\net8.0-windows\ARC-3- PRACTICA 9.deps.json
+C:\Users\valen\source\repos\ARC-3- PRACTICA 9\ARC-3- PRACTICA 9\bin\Debug\net8.0-windows\ARC-3- PRACTICA 9.runtimeconfig.json
+C:\Users\valen\source\repos\ARC-3- PRACTICA 9\ARC-3- PRACTICA 9\bin\Debug\net8.0-windows\ARC-3- PRACTICA 9.dll
+C:\Users\valen\source\repos\ARC-3- PRACTICA 9\ARC-3- PRACTICA 9\bin\Debug\net8.0-windows\ARC-3- PRACTICA 9.pdb
+C:\Users\valen\source\repos\ARC-3- PRACTICA 9\ARC-3- PRACTICA 9\obj\Debug\net8.0-windows\ARC_3__PRACTICA_9.Form1.resources
+C:\Users\valen\source\repos\ARC-3- PRACTICA 9\ARC-3- PRACTICA 9\obj\Debug\net8.0-windows\ARC_3__PRACTICA_9.Properties.Resources.resources
+C:\Users\valen\source\repos\ARC-3- PRACTICA 9\ARC-3- PRACTICA 9\obj\Debug\net8.0-windows\ARC-3- PRACTICA 9.csproj.GenerateResource.cache
+C:\Users\valen\source\repos\ARC-3- PRACTICA 9\ARC-3- PRACTICA 9\obj\Debug\net8.0-windows\ARC-3- PRACTICA 9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valen\source\repos\ARC-3- PRACTICA 9\ARC-3- PRACTICA 9\obj\Debug\net8.0-windows\ARC-3- PRACTICA 9.AssemblyInfoInputs.cache
+C:\Users\valen\source\repos\ARC-3- PRACTICA 9\ARC-3- PRACTICA 9\obj\Debug\net8.0-windows\ARC-3- PRACTICA 9.AssemblyInfo.cs
+C:\Users\valen\source\repos\ARC-3- PRACTICA 9\ARC-3- PRACTICA 9\obj\Debug\net8.0-windows\ARC-3- PRACTICA 9.csproj.CoreCompileInputs.cache
+C:\Users\valen\source\repos\ARC-3- PRACTICA 9\ARC-3- PRACTICA 9\obj\Debug\net8.0-windows\ARC-3- PRACTICA 9.dll
+C:\Users\valen\source\repos\ARC-3- PRACTICA 9\ARC-3- PRACTICA 9\obj\Debug\net8.0-windows\refint\ARC-3- PRACTICA 9.dll
+C:\Users\valen\source\repos\ARC-3- PRACTICA 9\ARC-3- PRACTICA 9\obj\Debug\net8.0-windows\ARC-3- PRACTICA 9.pdb
+C:\Users\valen\source\repos\ARC-3- PRACTICA 9\ARC-3- PRACTICA 9\obj\Debug\net8.0-windows\ARC-3- PRACTICA 9.genruntimeconfig.cache
+C:\Users\valen\source\repos\ARC-3- PRACTICA 9\ARC-3- PRACTICA 9\obj\Debug\net8.0-windows\ref\ARC-3- PRACTICA 9.dll
+C:\Users\valen\source\repos\ARC-3-PRACTICA 9\ARC-3- PRACTICA 9\bin\Debug\net8.0-windows\ARC-3- PRACTICA 9.exe
+C:\Users\valen\source\repos\ARC-3-PRACTICA 9\ARC-3- PRACTICA 9\bin\Debug\net8.0-windows\ARC-3- PRACTICA 9.deps.json
+C:\Users\valen\source\repos\ARC-3-PRACTICA 9\ARC-3- PRACTICA 9\bin\Debug\net8.0-windows\ARC-3- PRACTICA 9.runtimeconfig.json
+C:\Users\valen\source\repos\ARC-3-PRACTICA 9\ARC-3- PRACTICA 9\bin\Debug\net8.0-windows\ARC-3- PRACTICA 9.dll
+C:\Users\valen\source\repos\ARC-3-PRACTICA 9\ARC-3- PRACTICA 9\bin\Debug\net8.0-windows\ARC-3- PRACTICA 9.pdb
+C:\Users\valen\source\repos\ARC-3-PRACTICA 9\ARC-3- PRACTICA 9\obj\Debug\net8.0-windows\ARC_3__PRACTICA_9.Form1.resources
+C:\Users\valen\source\repos\ARC-3-PRACTICA 9\ARC-3- PRACTICA 9\obj\Debug\net8.0-windows\ARC_3__PRACTICA_9.Properties.Resources.resources
+C:\Users\valen\source\repos\ARC-3-PRACTICA 9\ARC-3- PRACTICA 9\obj\Debug\net8.0-windows\ARC-3- PRACTICA 9.csproj.GenerateResource.cache
+C:\Users\valen\source\repos\ARC-3-PRACTICA 9\ARC-3- PRACTICA 9\obj\Debug\net8.0-windows\ARC-3- PRACTICA 9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valen\source\repos\ARC-3-PRACTICA 9\ARC-3- PRACTICA 9\obj\Debug\net8.0-windows\ARC-3- PRACTICA 9.AssemblyInfoInputs.cache
+C:\Users\valen\source\repos\ARC-3-PRACTICA 9\ARC-3- PRACTICA 9\obj\Debug\net8.0-windows\ARC-3- PRACTICA 9.AssemblyInfo.cs
+C:\Users\valen\source\repos\ARC-3-PRACTICA 9\ARC-3- PRACTICA 9\obj\Debug\net8.0-windows\ARC-3- PRACTICA 9.csproj.CoreCompileInputs.cache
+C:\Users\valen\source\repos\ARC-3-PRACTICA 9\ARC-3- PRACTICA 9\obj\Debug\net8.0-windows\ARC-3- PRACTICA 9.dll
+C:\Users\valen\source\repos\ARC-3-PRACTICA 9\ARC-3- PRACTICA 9\obj\Debug\net8.0-windows\refint\ARC-3- PRACTICA 9.dll
+C:\Users\valen\source\repos\ARC-3-PRACTICA 9\ARC-3- PRACTICA 9\obj\Debug\net8.0-windows\ARC-3- PRACTICA 9.pdb
+C:\Users\valen\source\repos\ARC-3-PRACTICA 9\ARC-3- PRACTICA 9\obj\Debug\net8.0-windows\ARC-3- PRACTICA 9.genruntimeconfig.cache
+C:\Users\valen\source\repos\ARC-3-PRACTICA 9\ARC-3- PRACTICA 9\obj\Debug\net8.0-windows\ref\ARC-3- PRACTICA 9.dll
