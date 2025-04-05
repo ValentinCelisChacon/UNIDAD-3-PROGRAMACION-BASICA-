@@ -1,0 +1,34 @@
+C:\Users\valen\source\repos\PRECTICA 1\PRECTICA 1\bin\Debug\net8.0-windows\PRECTICA 1.exe
+C:\Users\valen\source\repos\PRECTICA 1\PRECTICA 1\bin\Debug\net8.0-windows\PRECTICA 1.deps.json
+C:\Users\valen\source\repos\PRECTICA 1\PRECTICA 1\bin\Debug\net8.0-windows\PRECTICA 1.runtimeconfig.json
+C:\Users\valen\source\repos\PRECTICA 1\PRECTICA 1\bin\Debug\net8.0-windows\PRECTICA 1.dll
+C:\Users\valen\source\repos\PRECTICA 1\PRECTICA 1\bin\Debug\net8.0-windows\PRECTICA 1.pdb
+C:\Users\valen\source\repos\PRECTICA 1\PRECTICA 1\obj\Debug\net8.0-windows\PRECTICA_1.Form1.resources
+C:\Users\valen\source\repos\PRECTICA 1\PRECTICA 1\obj\Debug\net8.0-windows\PRECTICA_1.Properties.Resources.resources
+C:\Users\valen\source\repos\PRECTICA 1\PRECTICA 1\obj\Debug\net8.0-windows\PRECTICA 1.csproj.GenerateResource.cache
+C:\Users\valen\source\repos\PRECTICA 1\PRECTICA 1\obj\Debug\net8.0-windows\PRECTICA 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valen\source\repos\PRECTICA 1\PRECTICA 1\obj\Debug\net8.0-windows\PRECTICA 1.AssemblyInfoInputs.cache
+C:\Users\valen\source\repos\PRECTICA 1\PRECTICA 1\obj\Debug\net8.0-windows\PRECTICA 1.AssemblyInfo.cs
+C:\Users\valen\source\repos\PRECTICA 1\PRECTICA 1\obj\Debug\net8.0-windows\PRECTICA 1.csproj.CoreCompileInputs.cache
+C:\Users\valen\source\repos\PRECTICA 1\PRECTICA 1\obj\Debug\net8.0-windows\PRECTICA 1.dll
+C:\Users\valen\source\repos\PRECTICA 1\PRECTICA 1\obj\Debug\net8.0-windows\refint\PRECTICA 1.dll
+C:\Users\valen\source\repos\PRECTICA 1\PRECTICA 1\obj\Debug\net8.0-windows\PRECTICA 1.pdb
+C:\Users\valen\source\repos\PRECTICA 1\PRECTICA 1\obj\Debug\net8.0-windows\PRECTICA 1.genruntimeconfig.cache
+C:\Users\valen\source\repos\PRECTICA 1\PRECTICA 1\obj\Debug\net8.0-windows\ref\PRECTICA 1.dll
+C:\Users\valen\source\repos\AR- 1-PRACTICA 1\PRECTICA 1\bin\Debug\net8.0-windows\PRECTICA 1.exe
+C:\Users\valen\source\repos\AR- 1-PRACTICA 1\PRECTICA 1\bin\Debug\net8.0-windows\PRECTICA 1.deps.json
+C:\Users\valen\source\repos\AR- 1-PRACTICA 1\PRECTICA 1\bin\Debug\net8.0-windows\PRECTICA 1.runtimeconfig.json
+C:\Users\valen\source\repos\AR- 1-PRACTICA 1\PRECTICA 1\bin\Debug\net8.0-windows\PRECTICA 1.dll
+C:\Users\valen\source\repos\AR- 1-PRACTICA 1\PRECTICA 1\bin\Debug\net8.0-windows\PRECTICA 1.pdb
+C:\Users\valen\source\repos\AR- 1-PRACTICA 1\PRECTICA 1\obj\Debug\net8.0-windows\PRECTICA_1.Form1.resources
+C:\Users\valen\source\repos\AR- 1-PRACTICA 1\PRECTICA 1\obj\Debug\net8.0-windows\PRECTICA_1.Properties.Resources.resources
+C:\Users\valen\source\repos\AR- 1-PRACTICA 1\PRECTICA 1\obj\Debug\net8.0-windows\PRECTICA 1.csproj.GenerateResource.cache
+C:\Users\valen\source\repos\AR- 1-PRACTICA 1\PRECTICA 1\obj\Debug\net8.0-windows\PRECTICA 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valen\source\repos\AR- 1-PRACTICA 1\PRECTICA 1\obj\Debug\net8.0-windows\PRECTICA 1.AssemblyInfoInputs.cache
+C:\Users\valen\source\repos\AR- 1-PRACTICA 1\PRECTICA 1\obj\Debug\net8.0-windows\PRECTICA 1.AssemblyInfo.cs
+C:\Users\valen\source\repos\AR- 1-PRACTICA 1\PRECTICA 1\obj\Debug\net8.0-windows\PRECTICA 1.csproj.CoreCompileInputs.cache
+C:\Users\valen\source\repos\AR- 1-PRACTICA 1\PRECTICA 1\obj\Debug\net8.0-windows\PRECTICA 1.dll
+C:\Users\valen\source\repos\AR- 1-PRACTICA 1\PRECTICA 1\obj\Debug\net8.0-windows\refint\PRECTICA 1.dll
+C:\Users\valen\source\repos\AR- 1-PRACTICA 1\PRECTICA 1\obj\Debug\net8.0-windows\PRECTICA 1.pdb
+C:\Users\valen\source\repos\AR- 1-PRACTICA 1\PRECTICA 1\obj\Debug\net8.0-windows\PRECTICA 1.genruntimeconfig.cache
+C:\Users\valen\source\repos\AR- 1-PRACTICA 1\PRECTICA 1\obj\Debug\net8.0-windows\ref\PRECTICA 1.dll
